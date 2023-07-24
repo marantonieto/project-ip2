@@ -9,12 +9,12 @@
 ## Descrição geral do projeto 
 A ideia principal do projeto se resume em um web app de geovisualização com o objetivo de criar uma forma de acesso a informação geopolítica que seja intuitiva para qualquer tipo de usuário. Dentro do app seria possível selecionar um país e obter informações gerais (Nome, bandeira etc.).
 
-Quem vai usar o programa? 
- * O objetivo é ser acessível e capaz de transmitir informação para qualquer tipo de usuário final
-Que serviços serão necessários?
- * Acesso à internet
-Quais serviços cada usuário pode executar?
- * Visualização de dados e informações essenciais de cada país 
+*Quem vai usar o programa? 
+O objetivo é ser acessível e capaz de transmitir informação para qualquer tipo de usuário final.
+*Que serviços serão necessários?
+Acesso à internet
+*Quais serviços cada usuário pode executar?
+Visualização de dados e informações essenciais de cada país 
 
 ## Requisitos do projeto
 REQ1 - O sistema deve ter login dedicado a separar staff e usuário
